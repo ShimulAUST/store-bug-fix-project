@@ -41,6 +41,7 @@ body {
   border: 1px solid rgb(155, 155, 156);
   border-radius: 10px;
   transition: 0.6s;
+  background-color: rgb(213, 210, 228);
 }
 .single-product:hover {
   box-shadow: 4px 4px 7px gray;
